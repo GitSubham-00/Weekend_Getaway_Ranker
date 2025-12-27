@@ -1,5 +1,4 @@
 # 🧭 Weekend Getaway Ranker  
-**Data Engineering Assignment**
 
 ---
 
