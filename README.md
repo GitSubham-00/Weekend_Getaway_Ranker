@@ -1,6 +1,5 @@
 # 🧭 Weekend Getaway Ranker  
 
----
 
 ## 📌 Project Overview
 The **Weekend Getaway Ranker** is a Python-based recommendation engine that suggests the **top weekend travel destinations in India** based on a given **source city**.
