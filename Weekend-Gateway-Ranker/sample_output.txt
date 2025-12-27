@@ -1,0 +1,55 @@
+Weekend Getaway Ranker – Sample Output
+====================================
+
+Source City: Kolkata
+-------------------
+1. Howrah Bridge – Kolkata
+   Rating: 4.6 | Reviews: 1.20 lakhs | Best Time: Anytime | Score: 0.8110
+
+2. Dakshineswar Kali Temple – Kolkata
+   Rating: 4.7 | Reviews: 0.82 lakhs | Best Time: Morning | Score: 0.8079
+
+3. Belur Math – Kolkata
+   Rating: 4.7 | Reviews: 0.47 lakhs | Best Time: Morning | Score: 0.7984
+
+4. Victoria Memorial – Kolkata
+   Rating: 4.6 | Reviews: 0.73 lakhs | Best Time: Morning | Score: 0.7983
+
+5. Science City Kolkata – Kolkata
+   Rating: 4.4 | Reviews: 0.88 lakhs | Best Time: All | Score: 0.7881
+
+
+Source City: Delhi
+-----------------
+1. India Gate – Delhi
+   Rating: 4.6 | Reviews: 2.60 lakhs | Best Time: Evening | Score: 0.8488
+
+2. Red Fort – Delhi
+   Rating: 4.5 | Reviews: 1.50 lakhs | Best Time: Afternoon | Score: 0.8120
+
+3. Qutub Minar – Delhi
+   Rating: 4.5 | Reviews: 1.37 lakhs | Best Time: Afternoon | Score: 0.8085
+
+4. Akshardham Temple – Delhi
+   Rating: 4.6 | Reviews: 0.40 lakhs | Best Time: Afternoon | Score: 0.7894
+
+5. Lotus Temple – Delhi
+   Rating: 4.5 | Reviews: 0.59 lakhs | Best Time: Evening | Score: 0.7874
+
+
+Source City: Mumbai
+------------------
+1. Gateway of India – Mumbai
+   Rating: 4.6 | Reviews: 3.60 lakhs | Best Time: All | Score: 0.8759
+
+2. Siddhivinayak Temple – Mumbai
+   Rating: 4.8 | Reviews: 1.05 lakhs | Best Time: All | Score: 0.8212
+
+3. Marine Drive – Mumbai
+   Rating: 4.5 | Reviews: 1.50 lakhs | Best Time: Evening | Score: 0.8120
+
+4. Mahalaxmi Temple – Mumbai
+   Rating: 4.7 | Reviews: 0.33 lakhs | Best Time: All | Score: 0.7946
+
+5. Chhatrapati Shivaji Maharaj Vastu Sangrahalaya – Mumbai
+   Rating: 4.6 | Reviews: 0.34 lakhs | Best Time: All | Score: 0.7878
