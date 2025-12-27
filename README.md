@@ -10,7 +10,7 @@ The system ranks destinations using a combination of:
 - **Google review ratings**
 - **Popularity (number of Google reviews)**
 
-This project was developed as part of a **Data Engineering assignment round** and focuses on data preprocessing, feature engineering, and ranking logic using **Python and Pandas**.
+This project focuses on data preprocessing, feature engineering, and ranking logic using **Python and Pandas**.
 
 ---
 
