@@ -190,6 +190,13 @@ Build a CLI or web interface
 ---
 
 
-## 🧑‍💻 Author
+## 👨‍💻 Author
 
 **Subham Maity**
+
+
+🔗 **GitHub**: https://github.com/GitSubham-00
+
+🔗 **LinkedIn**: https://linkedin.com/in/subhammaity
+
+If you found this project useful, feel free to star the repository!
