@@ -73,6 +73,7 @@ This approach ensures **geographically realistic weekend recommendations** witho
 ## 📊 Ranking Logic
 
 Each destination is assigned a **final score** using the following weighted formula:
+
 Final Score =
 0.45 × Distance Score +
 0.35 × Normalized Rating +
